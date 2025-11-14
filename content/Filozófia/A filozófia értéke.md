@@ -1,0 +1,1 @@
+ha ide írok valami és syncelek az meglesz a gépen is?
