@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "78162e6f5fc4362f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a58fdd3af5a6886e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "127e6b60b8dc393f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Publikus Pszichológia/Történelmi áttekintés.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Történelmi áttekintés"
+            }
+          },
+          {
+            "id": "eb177db4509c58b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "a473f2ffbf1500a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "436d04c0a1560895",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d09ba0432c683bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9384489a3d29cef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "226d0db75f89a120",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7bdf39c3dd544d93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27c292598a653510",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ab761f5d4f5498d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ca7a0fe2fdcf43d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Publikus Pszichológia/Történelmi áttekintés.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Történelmi áttekintés"
+            }
+          },
+          {
+            "id": "2fc6977ac8169fff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Filozófia/A filozófia értéke.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from A filozófia értéke"
+            }
+          },
+          {
+            "id": "747ffd48ffb05c20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ea15c609e1728791",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Publikus Pszichológia/Történelmi áttekintés.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Történelmi áttekintés"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "flowershow:Publish with Flowershow": false
+    }
+  },
+  "active": "a473f2ffbf1500a2",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Welcome.md",
+    "Filozófia/A filozófia értéke.md",
+    "Publikus Pszichológia/Történelmi áttekintés.md",
+    "Publikus Pszichológia/Kit érdekel.md",
+    "Jelenlegi olvasmányok/The Nurture Assumption.md",
+    "Random teóriák amiknek még nincs helyük.md",
+    "create a link.md",
+    "Jelenlegi olvasmányok",
+    "Untitled.canvas",
+    "Publikus Pszichológia",
+    "Pszichológia",
+    "Filozófia"
+  ]
+}
